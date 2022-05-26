@@ -31,9 +31,14 @@ Jupyter notebook is an interactive enviornment which is used to share code snipp
 
 ## Python basics
 Refer to python basics jupyter notebook uploaded and try to get comfortable with the syntax of python. Get some basic concepts like loops, functions, if-else clear. You can also refer to following resources:
-- links
-
+- https://www.w3schools.com/python/
+- https://www.geeksforgeeks.org/python-programming-language/
+Don't stress too much on learning enormous breadth of functionalities offered in Python. Python is a pretty easy language and you can learn things on the way.
 For our purposes we do not need to go too deep into python, rather just get a basic understanding.
+
+
 ## Numpy
+NumPy is a very useful library for dealing with arrays and matrices. It contains several functions which are very handy while dealing with problems in computational physics. We have introduced you to some basic functions of NumPy. The amount of useful functions are large so you'll have to dig them out as per requirement (use the same references of python basic). You can also refer to the official documentation (https://numpy.org/doc/1.22/) We have also given a few problems in the end which are part of the assignment for this week.
+
 
 ## Matplotlib
