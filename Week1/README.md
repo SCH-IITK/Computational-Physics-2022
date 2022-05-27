@@ -47,4 +47,4 @@ NumPy is a very useful library for dealing with arrays and matrices. It contains
 ## Matplotlib
 
 ## Assignment 
-A few questions have been given at the end of 'numpy.ipynb' and 'matplotlib.ipynb'. You need to submit those questions as part of assignment. More details about it would be given later
+A few questions have been given at the end of `numpy.ipynb` and `matplotlib.ipynb`. You need to submit those questions as part of assignment. More details about it would be given later
