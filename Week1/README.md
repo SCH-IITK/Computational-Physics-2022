@@ -25,7 +25,9 @@ You can use the following resources to get a basic idea about git and github:
 - https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
 
 ### Jupyter notebook
-Jupyter notebook is an interactive enviornment which is used to share code snippets in cells. It makes the ccode quite easy to understand and maintain. We will be using Jupyter notebooks in this project. You can download Jupyter notebooks by downloading Anaconda, or you can also install jupyter using python pip.
+Jupyter notebook is an interactive enviornment which is used to share code snippets in cells. It makes the code quite easy to understand and maintain. We will be using Jupyter notebooks in this project. You can download Jupyter notebooks by downloading Anaconda(https://docs.anaconda.com/anaconda/install/), or you can also install jupyter using python pip. We recommend that you install Anaconda and directly open Jupyter notebook from Anaconda navigator. You can refer to following resources to get a basic understanding of Jupyter notbooks.
+- https://realpython.com/jupyter-notebook-introduction/
+- https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 
 
 
@@ -33,6 +35,7 @@ Jupyter notebook is an interactive enviornment which is used to share code snipp
 Refer to python basics jupyter notebook uploaded and try to get comfortable with the syntax of python. Get some basic concepts like loops, functions, if-else clear. You can also refer to following resources:
 - https://www.w3schools.com/python/
 - https://www.geeksforgeeks.org/python-programming-language/
+
 Don't stress too much on learning enormous breadth of functionalities offered in Python. Python is a pretty easy language and you can learn things on the way.
 For our purposes we do not need to go too deep into python, rather just get a basic understanding.
 
@@ -42,3 +45,6 @@ NumPy is a very useful library for dealing with arrays and matrices. It contains
 
 
 ## Matplotlib
+
+## Assignment 
+A few questions have been given at the end of 'numpy.ipynb' and 'matplotlib.ipynb'. You need to submit those questions as part of assignment. More details about it would be given later
