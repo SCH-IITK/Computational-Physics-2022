@@ -45,6 +45,12 @@ NumPy is a very useful library for dealing with arrays and matrices. It contains
 
 
 ## Matplotlib
+Matplotlib is one of most widely used libraries in python for plotting and visualising data. This can be very helpful when discovering and getting to know a dataset. Data visualizations can be used to express and demonstrate key relationships in plots and charts. You can refer to following resources for matplotlib 
+- https://matplotlib.org/2.0.2/users/pyplot_tutorial.html
+- https://matplotlib.org/stable/tutorials/introductory/usage.html
+- https://www.w3schools.com/python/matplotlib_intro.asp
+- https://matplotlib.org/stable/tutorials/toolkits/mplot3d.html
+
 
 ## Assignment 
-A few questions have been given at the end of `numpy.ipynb` and `matplotlib.ipynb`. You need to submit those questions as part of assignment. More details about it would be given later
+A few questions have been given at the end of `numpy.ipynb` and `matplotlib.ipynb`. You need to submit those questions as part of assignment. You need to to submit your assignments by making a pull request. More details about it would be given later
