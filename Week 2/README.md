@@ -8,7 +8,7 @@ After getting a basic understanding of python and learning about its two major l
 4) Ordinary differential equations
 
 ## Differentiation
-
+For most of the problems in physics we need to calculate derivatives of functions. And many times it is difficult and inefficient to calculate analytical form of the derivative. So we employ numerical derivatives as approximations for calculation purposes. `differentiation.ipynb` lists some of methods used to calculate derivatives of such functions.
 
 ## Integration
 
@@ -19,6 +19,6 @@ Many times we encounter problems in which we have to find the root of a function
 - Newton-Raphson method
 - Secant method
 
-Go through the `root solving.ipynb` file which covers this topic.
+Go through the `root finding.ipynb` file which covers this topic.
 
 ## Ordinary differential equations
