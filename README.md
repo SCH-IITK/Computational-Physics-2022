@@ -11,8 +11,12 @@ This repository would be updated with the project resources, assignments and rel
 │   ├── Numpy.ipynb
 │   ├── README.md
 ├── Week-2
+│   ├── Integration.ipynb
 │   ├── differentiation.ipynb
 │   ├── root finding.ipynb
 │   ├── README.md
-
+├── Week-3
+│   ├── ode.ipynb
+│   ├── Assignmemt 3.ipynb
+│   ├── README.md
 ```
