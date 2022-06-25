@@ -1,10 +1,9 @@
 # Week 3
 
 ## Table Of Contents
-1. [Ordinary Differential Equations](https://github.com/SCH-IITK/Computational-Physics-2022/edit/main/Week%203/README.md#ordinary-differential-equations)
-2. [Image handling](https://github.com/SCH-IITK/Computational-Physics-2022/edit/main/Week%203/README.md#image-handling)
-3. [Assignment](https://github.com/SCH-IITK/Computational-Physics-2022/edit/main/Week%203/README.md#assignment)
-
+1. [Ordinary Differential Equations](https://github.com/SCH-IITK/Computational-Physics-2022/blob/main/Week%203/README.md#ordinary-differential-equations)
+2. [Image handling](https://github.com/SCH-IITK/Computational-Physics-2022/edit/blob/Week%203/README.md#image-handling)
+3. [Assignment](https://github.com/SCH-IITK/Computational-Physics-2022/edit/blob/Week%203/README.md#assignment)
 
 ## Ordinary Differential Equations
 
