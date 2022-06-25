@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 1. [Installation and Setup](https://github.com/SCH-IITK/Computational-Physics-2022/tree/main/Week1#installation-and-setup)
-2. [Python Basics]https://github.com/SCH-IITK/Computational-Physics-2022/tree/main/Week1#python-basics)
+2. [Python Basics](https://github.com/SCH-IITK/Computational-Physics-2022/tree/main/Week1#python-basics)
 3. [Numpy](https://github.com/SCH-IITK/Computational-Physics-2022/tree/main/Week1#numpy)
 5. [Matplotlib](https://github.com/SCH-IITK/Computational-Physics-2022/tree/main/Week1#matplotlib)
 
