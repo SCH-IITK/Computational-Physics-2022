@@ -2,9 +2,9 @@
 After getting a basic understanding of python and learning about its two major libraries, numpy and matplotlib, lets move further with our project. This week we understand basic mathemathics and numerical methods in computing.
 
 ## Table Of Contents
-1) Differentiation[https://github.com/SCH-IITK/Computational-Physics-2022/tree/main/Week%202#differentiation]
-2) Integration[https://github.com/SCH-IITK/Computational-Physics-2022/tree/main/Week%202#integration]
-3) Root solving[https://github.com/SCH-IITK/Computational-Physics-2022/tree/main/Week%202#root-solving]
+1) [Differentiation](https://github.com/SCH-IITK/Computational-Physics-2022/tree/main/Week%202#differentiation)
+2) [Integration](https://github.com/SCH-IITK/Computational-Physics-2022/tree/main/Week%202#integration)
+3) [Root solving](https://github.com/SCH-IITK/Computational-Physics-2022/tree/main/Week%202#root-solving)
 
 ## Differentiation
 For most of the problems in physics we need to calculate derivatives of functions. And many times it is difficult and inefficient to calculate analytical form of the derivative. So we employ numerical derivatives as approximations for calculation purposes. `differentiation.ipynb` lists some of methods used to calculate derivatives of such functions.
