@@ -20,3 +20,5 @@ Many times we encounter problems in which we have to find the root of a function
 
 Go through the `root finding.ipynb` file which covers this topic.
 
+## Assignments
+You will find different questions in the each of the files based on what all was covered. Submit the assignment by making a pull request.
