@@ -1,10 +1,10 @@
 # Week 1
 
 ## Table Of Contents
-1. [Installation and Setup](https://github.com/Shivangp4/comp-phy/blob/main/README.md#installation-and-setup)
-2. [Python Basics](https://github.com/Shivangp4/comp-phy/blob/main/README.md#python-basics)
-3. [Numpy](https://github.com/Shivangp4/comp-phy/blob/main/README.md#numpy)
-5. [Matplotlib](https://github.com/Shivangp4/comp-phy/blob/main/README.md#matplotlib)
+1. [Installation and Setup](https://github.com/SCH-IITK/Computational-Physics-2022/tree/main/Week1#installation-and-setup)
+2. [Python Basics](https://github.com/SCH-IITK/Computational-Physics-2022/tree/main/Week1#python-basics)
+3. [Numpy](https://github.com/SCH-IITK/Computational-Physics-2022/tree/main/Week1#numpy)
+5. [Matplotlib](https://github.com/SCH-IITK/Computational-Physics-2022/tree/main/Week1#matplotlib)
 
 ## Installation and setup
 To get started with our project _Computational Physics_ we need to first intall and set-up certain softwares
