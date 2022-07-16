@@ -27,6 +27,6 @@ This repository would be updated with the project resources, assignments and rel
 │   ├── README.md
 ├── Final Project
 ```
-*Description* : Through this project we aim to give basic understanding of various computational methods in physics. Computational physics deals with modelling and simulating various physics problems for which we have a theoretical foundation. The project will introduce various computational techniques and required libraries and conclude with solving computational physics problem(s).
+*_Description_* : Through this project we aim to give basic understanding of various computational methods in physics. Computational physics deals with modelling and simulating various physics problems for which we have a theoretical foundation. The project will introduce various computational techniques and required libraries and conclude with solving computational physics problem(s).
 
-*Mentors* : Shivang Pandey, Divyam Jain
+*_Mentors_* : Shivang Pandey, Divyam Jain
