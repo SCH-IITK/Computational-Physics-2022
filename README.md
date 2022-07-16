@@ -7,6 +7,7 @@ This repository would be updated with the project resources, assignments and rel
 .
 ├── README.md
 ├── Week 1
+│   ├── Week 1 Solutions.ipynb
 │   ├── python_basics.ipynb
 │   ├── Matplotlib.ipynb
 │   ├── Numpy.ipynb
@@ -17,6 +18,10 @@ This repository would be updated with the project resources, assignments and rel
 │   ├── root finding.ipynb
 │   ├── README.md
 ├── Week 3
+│   ├── velocities.txt
+│   ├── stm.txt
+│   ├── Diffraction.jpg
+│   ├── Solution week 3.ipynb
 │   ├── Image.ipynb
 │   ├── ode.ipynb
 │   ├── Assignmemt 3.ipynb
